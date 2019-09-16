@@ -5,7 +5,7 @@ class Header extends Component{
     render(){
         return(
             <header>
-            <div>Logo</div>
+            <div>Logo THIS TEXT IS FROM HOME</div>
             <input type="text"/>
             </header>
         )  
