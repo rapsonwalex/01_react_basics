@@ -17,6 +17,18 @@ class Header extends Component{
     }
 
     render(){
+
+        // const style = {
+        //     background:'red'
+        // }
+
+        // if(this.state.keywords !==''){
+        //     style.background = 'blue'
+        // } else{
+        //     style.background = 'red'
+        // }
+
+
         return(
             <header>
             <div className="logo">Logo</div>

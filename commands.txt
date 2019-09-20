@@ -1,0 +1,9 @@
+
+DTREFFTZ-0076+Bello@DTREFFTZ-0076 MINGW64 /d/react tut/01_react_basics
+$ npm install -g create-react-app
+
+$ create-react-app .
+
+$ npm start
+
+npm install glamor --save

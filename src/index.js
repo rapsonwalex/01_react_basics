@@ -18,7 +18,7 @@ render(){
             <Header/>
             <NewsList news={this.state.news}>
                 <h1>
-                    The new are:
+                    The news are:
                 </h1>
             </NewsList>
         </div>
