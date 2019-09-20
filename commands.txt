@@ -7,3 +7,5 @@ $ create-react-app .
 $ npm start
 
 npm install glamor --save
+
+npm update
